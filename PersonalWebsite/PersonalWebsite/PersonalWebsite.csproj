@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="C:\Users\tom_8\source\repos\PersonalWebsite.sln" Link="PersonalWebsite.sln" />
+  </ItemGroup>
+
 </Project>
